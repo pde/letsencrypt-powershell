@@ -15,4 +15,6 @@
  [~~Restoring IIS Configurations Using Iisback.vbs~~](https://www.microsoft.com/technet/prodtechnol/WindowsServer2003/Library/IIS/7429a26d-45f0-41fe-bf45-a6e1d3be7ce1.mspx?mfr=true)
  
  [~~Listing IIS Backup Configurations Using Iisback.vbs~~](https://www.microsoft.com/technet/prodtechnol/WindowsServer2003/Library/IIS/05001ec3-be42-431a-bfe8-08c865564037.mspx?mfr=true)
+
+Evaluate [PyInstaller](https://github.com/letsencrypt/letsencrypt/pull/715) as a deployment mechanism for Windows users.
  
